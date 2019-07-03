@@ -62,7 +62,7 @@ enum Animal {
 
 
 
-## After
+## Solution
 
 ``` Swift
 enum AnimalSize {
@@ -93,4 +93,3 @@ struct Cow: Animal {
 ```
 
 그리고 이를 해결하기 위한.. 내가 사랑하는 프로토콜! enum + protocol + 다형성을 이용했다. 이제 case 추가 시, 기존 코드를 크게 건드리지 않고 쉬운 확장이 가능하다!
-
