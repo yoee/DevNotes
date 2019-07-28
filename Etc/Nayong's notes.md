@@ -51,6 +51,6 @@
 
 - [C언어 - typedef + struct](https://github.com/yoee/DevNotes/blob/master/C/typedef%2Bstruct.md)
 
-- [Git fork repo -> original repo : PR]([https://github.com/yoee/DevNotes/blob/master/git/GitHub%20Fork.md](https://github.com/yoee/DevNotes/blob/master/git/GitHub Fork.md))
+- [Git fork repo -> original repo : PR](https://github.com/yoee/DevNotes/blob/master/git/GitHub%20Fork.md)
 
   
