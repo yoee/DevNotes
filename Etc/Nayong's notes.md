@@ -9,21 +9,12 @@
 
 <br>
 
-## Study Groups
-
-- 산낙지
-  - [활동 내용](https://github.com/rawoctopus/Plan/issues)
-  - [CS talk](https://github.com/rawoctopus/CSTalk)
-- [Cleanios](https://github.com/cleanios) 
-
-<br>
-
 ## iOS / Swift
 
-- [[WWDC 2019] SwiftUI 소감문](https://github.com/yoee/DevNotes/blob/master/iOS/SwiftUI.md)
-- [[Refactoring]Replace Enum with Polymorphism](https://github.com/yoee/DevNotes/blob/master/iOS/Refactoring:%20Replace%20Enum%20with%20Polymorphism.md)
 - [[Swift 5.0] ABI Stability](https://github.com/cleanios/Study/issues/2)
 - [[Test-Driven iOS Development with Swift] 01. Your first unit test 요약](https://github.com/yoee/Cleanios-TDD/blob/master/book/1_Your%20First%20Unit%20Test.md)
+- [[Refactoring]Replace Enum with Polymorphism](https://github.com/yoee/DevNotes/blob/master/iOS/Refactoring:%20Replace%20Enum%20with%20Polymorphism.md)
+- [[WWDC 2019] SwiftUI 소감문](https://github.com/yoee/DevNotes/blob/master/iOS/SwiftUI.md)
 
 <br>
 
@@ -45,6 +36,15 @@
   - Lec 05 - Logistic classification [[요약]](https://github.com/yoee/DeepLearning/blob/master/lectures/deep_learning_zero_to_all/notes/lec05_Logistic_classification.md)
   - Lec 06 - Softmax Regression [[요약]](https://github.com/yoee/DeepLearning/blob/master/lectures/deep_learning_zero_to_all/notes/lec06_Softmax_Regression.md)
 
+<br>
+
+## Study Groups
+
+- [Cleanios](https://github.com/cleanios) 
+- 산낙지
+  - [활동 내용](https://github.com/rawoctopus/Plan/issues)
+  - [CS talk](https://github.com/rawoctopus/CSTalk)
+  
 <br>
 
 ## ETC
