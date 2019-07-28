@@ -21,9 +21,9 @@
 ## iOS / Swift
 
 - [[WWDC 2019] SwiftUI 소감문](https://github.com/yoee/DevNotes/blob/master/iOS/SwiftUI.md)
-- [[Refactoring] Replace Enum with Polymorphism]([https://github.com/yoee/DevNotes/blob/master/iOS/Refactoring:%20Replace%20Enum%20with%20Polymorphism.md](https://github.com/yoee/DevNotes/blob/master/iOS/Refactoring: Replace Enum with Polymorphism.md))
+- [[Refactoring]Replace Enum with Polymorphism](https://github.com/yoee/DevNotes/blob/master/iOS/Refactoring:%20Replace%20Enum%20with%20Polymorphism.md)
 - [[Swift 5.0] ABI Stability](https://github.com/cleanios/Study/issues/2)
-- [[Test-Driven iOS Development with Swift] 01. Your first unit test 요약](https://github.com/yoee/Cleanios-TDD/blob/master/book/1_Your First Unit Test.md)
+- [[Test-Driven iOS Development with Swift] 01. Your first unit test 요약](https://github.com/yoee/Cleanios-TDD/blob/master/book/1_Your%20First%20Unit%20Test.md)
 
 <br>
 
