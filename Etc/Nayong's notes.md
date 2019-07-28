@@ -27,7 +27,7 @@
 
 ## Deep Learning
 
-- 모두의 딥러닝 [[강좌 홈페이지]](<https://hunkim.github.io/ml/>)
+- 모두의 딥러닝
   - Lec 00 - Machine/Deep learning 수업의 개요와 일정 
   - Lec 01 - 기본적인 Machine Learning 의 용어와 개념 설명 [[요약]](https://github.com/yoee/DeepLearning/blob/master/lectures/deep_learning_zero_to_all/notes/lec01_Basics.md)
   - Lec 02 - Linear Regression [[요약]](https://github.com/yoee/DeepLearning/blob/master/lectures/deep_learning_zero_to_all/notes/lec02_Linear_Regression.md)
